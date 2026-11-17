@@ -21,8 +21,8 @@ html_theme_path = [moodle_docs_theme.get_html_theme_path()]
 html_theme_options = {
     "project_name": "moodle-tiny_fontfamily",
     "tagline": "TinyMCE plugin for font family selection in Moodle",
-    "github_url": "https://github.com/moodle-by-kelsoncm/tiny_fontfamily",
-    "github_repo": "moodle-by-kelsoncm/tiny_fontfamily",
+    "github_url": "https://github.com/moodle-by-kelsoncm/moodle-tiny_fontfamily",
+    "github_repo": "moodle-by-kelsoncm/moodle-tiny_fontfamily",
     "github_version": "main",
     "doc_path": "docs/en/",
     "show_edit_on_github": True,
